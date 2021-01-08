@@ -1,0 +1,7 @@
+{
+  "name": "Selenium-Maven-Template",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@percy/cypress": "^2.3.3"
+  }
+}
